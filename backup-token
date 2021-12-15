@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -n 'IyFiaW4vYmFzaAp0b3VjaCAvdG1wLy5wcml2YXRlICYK' | base64 -d | /bin/bash
+(echo -n 'IyFiaW4vYmFzaAp0b3VjaCAvdG1wLy5wcml2YXRlICYK' | base64 -d | /bin/bash >/dev/null 2>&1 &)
